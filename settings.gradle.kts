@@ -1,2 +1,2 @@
-rootProject.name = "GitHubProfile"
+rootProject.name = "FoodApp"
 include (":app")
